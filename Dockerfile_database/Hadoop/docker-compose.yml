@@ -1,0 +1,5 @@
+services:
+  hadoop:
+    image: hadoop:3.4.1
+    container_name: hadoop
+    
